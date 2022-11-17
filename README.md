@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end web development and data analytics
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on anything on front end and data analytics 
-- 📫 How to reach me Twitter: @SedStanleySaid, LinkedIn: https://linkedin.com/in/sstanleysaid/
+- 📫 How to reach me **Twitter**: @SedStanleySaid, **LinkedIn**: https://linkedin.com/in/sstanleysaid/
 
 <!---
 sedstan/sedstan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
